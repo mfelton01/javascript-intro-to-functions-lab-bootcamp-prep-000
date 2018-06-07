@@ -6,10 +6,10 @@ function whisper(string){
   return string.toLowerCase()
 }
 
-function logShout("Hello") {
+function logShout(Hello) {
   console.log(Hello.toUpperCase)
 }
 
-function logWhisper("Hello"){
+function logWhisper(Hello){
   console.log(Hello.toLowerCase)
 }
